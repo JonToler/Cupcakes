@@ -1,0 +1,18 @@
+.test {font-family: 'Harmattan', sans-serif;
+  color: #0000FF;
+   font-weight: 10;
+   font-size: 34;}
+
+.color {
+  color: red;
+  font-weight: bold;
+  align-content: center;
+  font-stretch: ultra-expanded;
+  font-size: 34;
+}
+
+body {
+    background-image: url("../img/cc1.jpg");
+
+}
+/*img src="img/cc2.jpg" alt="a photo of cupcake"*/
